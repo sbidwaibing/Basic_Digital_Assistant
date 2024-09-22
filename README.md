@@ -13,7 +13,7 @@ Welcome to Digital Assistant! This project is a versatile voice-controlled assis
 9. Screenshots: Take and save screenshots.
 10. CPU and Battery Status: Get updates on CPU usage and battery status.
 11. Jokes: Lighten the mood with a joke.
-12. Supported Operating Systems: Jarvis AI Assistant is compatible with the following operating systems:
+12. Supported Operating Systems: Assistant is compatible with the following operating systems:
 i. Windows
 ii. macOS
 iii. Linux
